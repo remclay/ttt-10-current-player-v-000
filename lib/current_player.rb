@@ -14,4 +14,5 @@ def current_player(board)
     "X"
   else counter % 2 != 0
     "O"
+  end
 end
